@@ -1,6 +1,7 @@
-class syntax{
-  public static void main(String[]args)
+class syntax
+{
+  public static void main(String args[])
   {
-     System.out.print("welcome");
+    System.out.println("Mohammed Eesa");
   }
 }
