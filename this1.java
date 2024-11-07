@@ -9,11 +9,6 @@ class sample
       this.age=age;
       this.city=city;
       this.clg=clg;
-
-       System.out.println("name="+name);
-       System.out.println("age="+age);
-       System.out.println("city="+city);
-       System.out.println("College="+clg);
     }
     public void display()
     {
